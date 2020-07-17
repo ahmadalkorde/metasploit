@@ -8,7 +8,7 @@ curl -LO https://github.com/rapid7/metasploit-framework/archive/5.0.71.tar.gz
 
 chmod +x metasploit-framework-5.0.71.tar.gz
 
-tar -xf $msfpath/$metasploit-framework-5.0.71.tar. gz
+tar -xf $msfpath/$metasploit-framework-5.0.71.tar.gz
 
 cd metasploit-framework-5.0.71
 
